@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "WebFetch(domain:www.mongodb.com)",
+      "Bash(mkdir:*)",
+      "Bash(mongosh:*)",
+      "Bash(atlas streams connections create:*)",
+      "Bash(atlas streams instances list:*)",
+      "Bash(atlas streams connections list:*)",
+      "Bash(atlas clusters:*)",
+      "Bash(atlas auth:*)"
+    ],
+    "deny": []
+  }
+}

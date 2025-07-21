@@ -1,0 +1,9 @@
+connection string: 
+dbRole:
+userName:
+password:
+orgId:
+projectId:
+stream processing instance:
+atlas cluster name:
+kafka topic:
